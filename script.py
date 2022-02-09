@@ -21,3 +21,5 @@
 
 #Merge
 ## É a junção de uma branch paralela para a branch principal
+## Sempre que eu entrar na branch principal, antes de fazer o merge, é preciso puxar as atualizações que estão no servidor, para a minha máquina
+## para ter certeza que estou unindo os códigos nas versões mais atuais possíveis.
