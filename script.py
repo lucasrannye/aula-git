@@ -13,6 +13,7 @@
 ## git branch - mostra quais branchs estão disponíveis
 ## git branch *nome da branch* - adiciona uma nova branch
 ## git checkout *nome da branch* - altera para a branch que você quer
+## git merge *nome da branch que será puxada* - junta as alterações de uma branch em outra // atenção, você tem que estar dentro da branch que SERÁ ATUALIZADA, ou seja, ir para a branch principal, e depois dar o comando
 ##
 
 #Branchs
